@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318377401202",
+    "project_id": "thinkandsend-bd2c4",
+    "storage_bucket": "thinkandsend-bd2c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318377401202:android:aea8cb0b887743c25a1beb",
+        "android_client_info": {
+          "package_name": "com.example.thinkandsend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318377401202-sb88c2ijkcqlkfjnq0jums8sbu76lq20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgSSo4_CmSxabSpbECsXARrltgfeYJu2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318377401202-sb88c2ijkcqlkfjnq0jums8sbu76lq20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
